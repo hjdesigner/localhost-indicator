@@ -25,16 +25,21 @@ Localhost Indicator adds multiple visual cues that make it impossible to miss wh
 ## 🚀 Installation
 
 Option 1: Install from Chrome Web Store (Coming Soon)
+
 Extension pending Chrome Web Store approval
 
 Option 2: Install Manually
+
 Download or Clone this repository:
 
 Load the Extension:
 
 Open Chrome and go to chrome://extensions/
+
 Enable Developer mode (toggle in top right)
+
 Click Load unpacked
+
 Select the localhost-indicator folder
 
 
@@ -45,12 +50,18 @@ Done! Open http://localhost:3000 to see it in action
 The extension automatically detects these localhost patterns:
 
 ✅ localhost
+
 ✅ 127.0.0.1
+
 ✅ [::1] (IPv6 localhost)
+
 ✅ *.local (e.g., mysite.local)
+
 ✅ 192.168.x.x (local network)
+
 ✅ 10.x.x.x (local network)
 
 
 📝 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
